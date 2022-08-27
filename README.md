@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VitaliReichert
-- 👀 I’m interested in DevOps, Programming and skripting 
+- 👀 I’m interested in DevOps, Programming and Skripting 
 - 🌱 I’m currently learning bash
 
 <!---
